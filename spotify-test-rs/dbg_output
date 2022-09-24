@@ -1,0 +1,1900 @@
+
+<======= RESPONSE =======>
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=Cody+Johnson&type=artist&offset=0&limit=20",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 709067
+      },
+      "genres" : [ "contemporary country", "country", "country road", "texas country" ],
+      "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+      "id" : "6zLBxLdl60ekBLpawtT63I",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb8c84ccf6160f7930d6da7cc8",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051748c84ccf6160f7930d6da7cc8",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1788c84ccf6160f7930d6da7cc8",
+        "width" : 160
+      } ],
+      "name" : "Cody Johnson",
+      "popularity" : 72,
+      "type" : "artist",
+      "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2LzlAqWEHOP9EZmmsJOYV0"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 124
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2LzlAqWEHOP9EZmmsJOYV0",
+      "id" : "2LzlAqWEHOP9EZmmsJOYV0",
+      "images" : [ ],
+      "name" : "Cody Johnson",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2LzlAqWEHOP9EZmmsJOYV0"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2324
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4P2moEkGVqw8nJ5caJLC41",
+      "id" : "4P2moEkGVqw8nJ5caJLC41",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebda8dc40bf0a1c004ccdf9876",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174da8dc40bf0a1c004ccdf9876",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178da8dc40bf0a1c004ccdf9876",
+        "width" : 160
+      } ],
+      "name" : "Cody Matthew Johnson",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:4P2moEkGVqw8nJ5caJLC41"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0E8Z0e9ZVDaVz6mnXH5UqL"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 23049
+      },
+      "genres" : [ "oklahoma country", "outlaw country", "texas country" ],
+      "href" : "https://api.spotify.com/v1/artists/0E8Z0e9ZVDaVz6mnXH5UqL",
+      "id" : "0E8Z0e9ZVDaVz6mnXH5UqL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273650b3f17c17d845189aa8213",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02650b3f17c17d845189aa8213",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851650b3f17c17d845189aa8213",
+        "width" : 64
+      } ],
+      "name" : "Gary P. Nunn",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:0E8Z0e9ZVDaVz6mnXH5UqL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0JykJqImUaRVFZfNDWMRRG"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6981
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0JykJqImUaRVFZfNDWMRRG",
+      "id" : "0JykJqImUaRVFZfNDWMRRG",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5ebf02838d1abbc402cd1e9dbbb",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174f02838d1abbc402cd1e9dbbb",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178f02838d1abbc402cd1e9dbbb",
+        "width" : 160
+      } ],
+      "name" : "Cody Johns",
+      "popularity" : 26,
+      "type" : "artist",
+      "uri" : "spotify:artist:0JykJqImUaRVFZfNDWMRRG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4vxw1PsfxNpOJ6LIcjOEYj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 358
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4vxw1PsfxNpOJ6LIcjOEYj",
+      "id" : "4vxw1PsfxNpOJ6LIcjOEYj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ad6214d09101dba1445215f0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ad6214d09101dba1445215f0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ad6214d09101dba1445215f0",
+        "width" : 64
+      } ],
+      "name" : "Casey Donahew & Cody Johnson",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4vxw1PsfxNpOJ6LIcjOEYj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Sgf5UznYn9SNPSWlf7zH5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2Sgf5UznYn9SNPSWlf7zH5",
+      "id" : "2Sgf5UznYn9SNPSWlf7zH5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6443e09e2cec91cb27e49b7a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746443e09e2cec91cb27e49b7a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786443e09e2cec91cb27e49b7a",
+        "width" : 160
+      } ],
+      "name" : "Johnson cody",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2Sgf5UznYn9SNPSWlf7zH5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Vdv0pEg0SwdqoEbpP3MJ1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 59324
+      },
+      "genres" : [ "red dirt", "texas country" ],
+      "href" : "https://api.spotify.com/v1/artists/0Vdv0pEg0SwdqoEbpP3MJ1",
+      "id" : "0Vdv0pEg0SwdqoEbpP3MJ1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6faa32e9fd06bb81a17d6332",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746faa32e9fd06bb81a17d6332",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786faa32e9fd06bb81a17d6332",
+        "width" : 160
+      } ],
+      "name" : "Bart Crow",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Vdv0pEg0SwdqoEbpP3MJ1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4XRBDs9OQzyrtybAXvNNkW"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 31
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4XRBDs9OQzyrtybAXvNNkW",
+      "id" : "4XRBDs9OQzyrtybAXvNNkW",
+      "images" : [ ],
+      "name" : "Cody Johnstone",
+      "popularity" : 19,
+      "type" : "artist",
+      "uri" : "spotify:artist:4XRBDs9OQzyrtybAXvNNkW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 263518
+      },
+      "genres" : [ "outlaw country", "red dirt", "texas country" ],
+      "href" : "https://api.spotify.com/v1/artists/04DUpHOyQqwbHFyvIhcGi3",
+      "id" : "04DUpHOyQqwbHFyvIhcGi3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb6c2c672d2c1524d96b6771a7",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051746c2c672d2c1524d96b6771a7",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1786c2c672d2c1524d96b6771a7",
+        "width" : 160
+      } ],
+      "name" : "Randy Rogers Band",
+      "popularity" : 53,
+      "type" : "artist",
+      "uri" : "spotify:artist:04DUpHOyQqwbHFyvIhcGi3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6U9DEn6Fj3rTCQTEGgoGxm"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6U9DEn6Fj3rTCQTEGgoGxm",
+      "id" : "6U9DEn6Fj3rTCQTEGgoGxm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27326c1c5a718b35988a2c7f030",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0226c1c5a718b35988a2c7f030",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485126c1c5a718b35988a2c7f030",
+        "width" : 64
+      } ],
+      "name" : "Cody M Johnson",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6U9DEn6Fj3rTCQTEGgoGxm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 46948
+      },
+      "genres" : [ "red dirt", "texas country" ],
+      "href" : "https://api.spotify.com/v1/artists/0K3gUcawlzf0s7WE9umkgd",
+      "id" : "0K3gUcawlzf0s7WE9umkgd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb286190b61e92f03a759ab25f",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174286190b61e92f03a759ab25f",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178286190b61e92f03a759ab25f",
+        "width" : 160
+      } ],
+      "name" : "Josh Ward",
+      "popularity" : 49,
+      "type" : "artist",
+      "uri" : "spotify:artist:0K3gUcawlzf0s7WE9umkgd"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8196
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5xYvg2nZQcavaPwYOcOYRD",
+      "id" : "5xYvg2nZQcavaPwYOcOYRD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb1599dce230be953269c2991a",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051741599dce230be953269c2991a",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1781599dce230be953269c2991a",
+        "width" : 160
+      } ],
+      "name" : "CODY JON",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:5xYvg2nZQcavaPwYOcOYRD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2BlLyiVSZagwGmH7Po9mz9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2BlLyiVSZagwGmH7Po9mz9",
+      "id" : "2BlLyiVSZagwGmH7Po9mz9",
+      "images" : [ ],
+      "name" : "Cody Matthew JohnsonShim",
+      "popularity" : 3,
+      "type" : "artist",
+      "uri" : "spotify:artist:2BlLyiVSZagwGmH7Po9mz9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1DyywGnuzXGEzlZMXBcc0j"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 83676
+      },
+      "genres" : [ "outlaw country", "texas country" ],
+      "href" : "https://api.spotify.com/v1/artists/1DyywGnuzXGEzlZMXBcc0j",
+      "id" : "1DyywGnuzXGEzlZMXBcc0j",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb833c36da9f1f46e3b5e7e237",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab67616100005174833c36da9f1f46e3b5e7e237",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f178833c36da9f1f46e3b5e7e237",
+        "width" : 160
+      } ],
+      "name" : "Roger Creager",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:1DyywGnuzXGEzlZMXBcc0j"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Am3dDrHIxQUnQoPK2oXRz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 416
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4Am3dDrHIxQUnQoPK2oXRz",
+      "id" : "4Am3dDrHIxQUnQoPK2oXRz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb0e76c4ff16487d04f0637c06",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051740e76c4ff16487d04f0637c06",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1780e76c4ff16487d04f0637c06",
+        "width" : 160
+      } ],
+      "name" : "Cody Joe Hodges",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:4Am3dDrHIxQUnQoPK2oXRz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6KHx79ZlEvDCsVJcqEfEpk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6KHx79ZlEvDCsVJcqEfEpk",
+      "id" : "6KHx79ZlEvDCsVJcqEfEpk",
+      "images" : [ ],
+      "name" : "Cody Johnson,Alessandro Saini",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6KHx79ZlEvDCsVJcqEfEpk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 70254
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2dz0ijxEHh6AzUzQBwBSKx",
+      "id" : "2dz0ijxEHh6AzUzQBwBSKx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb49bbaf3d3307e7f7e1cd60e2",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab6761610000517449bbaf3d3307e7f7e1cd60e2",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f17849bbaf3d3307e7f7e1cd60e2",
+        "width" : 160
+      } ],
+      "name" : "Kolby Cooper",
+      "popularity" : 56,
+      "type" : "artist",
+      "uri" : "spotify:artist:2dz0ijxEHh6AzUzQBwBSKx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Q6CCNoJRegccJxi9XS4c1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 13
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4Q6CCNoJRegccJxi9XS4c1",
+      "id" : "4Q6CCNoJRegccJxi9XS4c1",
+      "images" : [ ],
+      "name" : "Cody Jones",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:4Q6CCNoJRegccJxi9XS4c1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 235513
+      },
+      "genres" : [ "contemporary country", "country", "country road", "modern country rock", "red dirt", "texas country" ],
+      "href" : "https://api.spotify.com/v1/artists/2EJ5MRZCzpHSSNNEpTx9Kb",
+      "id" : "2EJ5MRZCzpHSSNNEpTx9Kb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab6761610000e5eb4828dea836d9814f1a91188d",
+        "width" : 640
+      }, {
+        "height" : 320,
+        "url" : "https://i.scdn.co/image/ab676161000051744828dea836d9814f1a91188d",
+        "width" : 320
+      }, {
+        "height" : 160,
+        "url" : "https://i.scdn.co/image/ab6761610000f1784828dea836d9814f1a91188d",
+        "width" : 160
+      } ],
+      "name" : "Josh Abbott Band",
+      "popularity" : 58,
+      "type" : "artist",
+      "uri" : "spotify:artist:2EJ5MRZCzpHSSNNEpTx9Kb"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=Cody+Johnson&type=artist&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 36
+  },
+  "tracks" : {
+    "href" : "https://api.spotify.com/v1/search?query=Cody+Johnson&type=track&offset=0&limit=20",
+    "items" : [ {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+          "id" : "6zLBxLdl60ekBLpawtT63I",
+          "name" : "Cody Johnson",
+          "type" : "artist",
+          "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3og8X1LYiVq3nPdMxpM9Wb",
+        "id" : "3og8X1LYiVq3nPdMxpM9Wb",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d249311c1e8dcf6d91d35558",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d249311c1e8dcf6d91d35558",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d249311c1e8dcf6d91d35558",
+          "width" : 64
+        } ],
+        "name" : "Human The Double Album",
+        "release_date" : "2021-10-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:3og8X1LYiVq3nPdMxpM9Wb"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+        "id" : "6zLBxLdl60ekBLpawtT63I",
+        "name" : "Cody Johnson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "disc_number" : 1,
+      "duration_ms" : 224213,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMCQK1900137"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4k3lPl8YTKuY8c1HelVnm3",
+      "id" : "4k3lPl8YTKuY8c1HelVnm3",
+      "is_local" : false,
+      "name" : "'Til You Can't",
+      "popularity" : 75,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2d4fcd0b616eb072cd9a7343c5745ebb4db23e54?cid=4f6544150d1049b082feba3bc13be19c",
+      "track_number" : 4,
+      "type" : "track",
+      "uri" : "spotify:track:4k3lPl8YTKuY8c1HelVnm3"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+          },
+          "href" : "https://api.spotify.com/v1/artists/7HjGPPtdNuHcK8crc7iNkn",
+          "id" : "7HjGPPtdNuHcK8crc7iNkn",
+          "name" : "Ian Munsick",
+          "type" : "artist",
+          "uri" : "spotify:artist:7HjGPPtdNuHcK8crc7iNkn"
+        }, {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+          "id" : "6zLBxLdl60ekBLpawtT63I",
+          "name" : "Cody Johnson",
+          "type" : "artist",
+          "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5zxTZhMN5oGzbGnXtfrfCN"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5zxTZhMN5oGzbGnXtfrfCN",
+        "id" : "5zxTZhMN5oGzbGnXtfrfCN",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273db33b902f2a209e50cb3b9d3",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02db33b902f2a209e50cb3b9d3",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851db33b902f2a209e50cb3b9d3",
+          "width" : 64
+        } ],
+        "name" : "Long Live Cowgirls (with Cody Johnson)",
+        "release_date" : "2022-01-28",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:5zxTZhMN5oGzbGnXtfrfCN"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7HjGPPtdNuHcK8crc7iNkn",
+        "id" : "7HjGPPtdNuHcK8crc7iNkn",
+        "name" : "Ian Munsick",
+        "type" : "artist",
+        "uri" : "spotify:artist:7HjGPPtdNuHcK8crc7iNkn"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+        "id" : "6zLBxLdl60ekBLpawtT63I",
+        "name" : "Cody Johnson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "disc_number" : 1,
+      "duration_ms" : 184746,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USWB12200031"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/16LGRLfaVIC5rT2ZvLk0gd"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/16LGRLfaVIC5rT2ZvLk0gd",
+      "id" : "16LGRLfaVIC5rT2ZvLk0gd",
+      "is_local" : false,
+      "name" : "Long Live Cowgirls (with Cody Johnson)",
+      "popularity" : 70,
+      "preview_url" : "https://p.scdn.co/mp3-preview/623cf25e6f2076eda532a19133d78d3a9bc37ee5?cid=4f6544150d1049b082feba3bc13be19c",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:16LGRLfaVIC5rT2ZvLk0gd"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+          "id" : "6zLBxLdl60ekBLpawtT63I",
+          "name" : "Cody Johnson",
+          "type" : "artist",
+          "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5MzgI1Hzjkf1Dj7xW7d1GL",
+        "id" : "5MzgI1Hzjkf1Dj7xW7d1GL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273f2317ab4e32609bd831b5bca",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02f2317ab4e32609bd831b5bca",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851f2317ab4e32609bd831b5bca",
+          "width" : 64
+        } ],
+        "name" : "'Til You Can’t / Longer Than She Did",
+        "release_date" : "2021-06-11",
+        "release_date_precision" : "day",
+        "total_tracks" : 2,
+        "type" : "album",
+        "uri" : "spotify:album:5MzgI1Hzjkf1Dj7xW7d1GL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+        "id" : "6zLBxLdl60ekBLpawtT63I",
+        "name" : "Cody Johnson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "disc_number" : 1,
+      "duration_ms" : 224773,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMCQK1900137"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/13rC4iKtfQocWIfzPOJxaT",
+      "id" : "13rC4iKtfQocWIfzPOJxaT",
+      "is_local" : false,
+      "name" : "'Til You Can't",
+      "popularity" : 67,
+      "preview_url" : "https://p.scdn.co/mp3-preview/56cd0203132b54cf4d0ac9a20ecb35070786cced?cid=4f6544150d1049b082feba3bc13be19c",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:13rC4iKtfQocWIfzPOJxaT"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+          "id" : "6zLBxLdl60ekBLpawtT63I",
+          "name" : "Cody Johnson",
+          "type" : "artist",
+          "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0JKpAxkMB9RxA4EqqhLhLj",
+        "id" : "0JKpAxkMB9RxA4EqqhLhLj",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739252c9fcdef40fc5c6d30f14",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029252c9fcdef40fc5c6d30f14",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519252c9fcdef40fc5c6d30f14",
+          "width" : 64
+        } ],
+        "name" : "Cowboy Like Me",
+        "release_date" : "2014-01-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:0JKpAxkMB9RxA4EqqhLhLj"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+        "id" : "6zLBxLdl60ekBLpawtT63I",
+        "name" : "Cody Johnson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "disc_number" : 1,
+      "duration_ms" : 156200,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMCQK1300002"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4rW9EUFaMSNVY8JhbqrB6z"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4rW9EUFaMSNVY8JhbqrB6z",
+      "id" : "4rW9EUFaMSNVY8JhbqrB6z",
+      "is_local" : false,
+      "name" : "Me and My Kind",
+      "popularity" : 73,
+      "preview_url" : "https://p.scdn.co/mp3-preview/42c4a435d65e9e17df8dee6684ccbd7c2425219c?cid=4f6544150d1049b082feba3bc13be19c",
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:4rW9EUFaMSNVY8JhbqrB6z"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+          "id" : "6zLBxLdl60ekBLpawtT63I",
+          "name" : "Cody Johnson",
+          "type" : "artist",
+          "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
+        },
+        "href" : "https://api.spotify.com/v1/albums/62aYom0k3j1RBe4uPC64ob",
+        "id" : "62aYom0k3j1RBe4uPC64ob",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273606c346e7888593b3b161c58",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02606c346e7888593b3b161c58",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851606c346e7888593b3b161c58",
+          "width" : 64
+        } ],
+        "name" : "Ain't Nothin' to It",
+        "release_date" : "2019-01-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:62aYom0k3j1RBe4uPC64ob"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+        "id" : "6zLBxLdl60ekBLpawtT63I",
+        "name" : "Cody Johnson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "disc_number" : 1,
+      "duration_ms" : 213306,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMCQK1800053"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3OjNkFFZavF89xvRqWCXmU"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3OjNkFFZavF89xvRqWCXmU",
+      "id" : "3OjNkFFZavF89xvRqWCXmU",
+      "is_local" : false,
+      "name" : "On My Way to You",
+      "popularity" : 65,
+      "preview_url" : "https://p.scdn.co/mp3-preview/eac446b4693dcfc5c7b59067695941a72f4042e3?cid=4f6544150d1049b082feba3bc13be19c",
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:3OjNkFFZavF89xvRqWCXmU"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+          "id" : "6zLBxLdl60ekBLpawtT63I",
+          "name" : "Cody Johnson",
+          "type" : "artist",
+          "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3og8X1LYiVq3nPdMxpM9Wb",
+        "id" : "3og8X1LYiVq3nPdMxpM9Wb",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d249311c1e8dcf6d91d35558",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d249311c1e8dcf6d91d35558",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d249311c1e8dcf6d91d35558",
+          "width" : 64
+        } ],
+        "name" : "Human The Double Album",
+        "release_date" : "2021-10-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:3og8X1LYiVq3nPdMxpM9Wb"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+        "id" : "6zLBxLdl60ekBLpawtT63I",
+        "name" : "Cody Johnson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "disc_number" : 1,
+      "duration_ms" : 221520,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMCQK1900116"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5AihIu9yF3flkw1jFMyfwW",
+      "id" : "5AihIu9yF3flkw1jFMyfwW",
+      "is_local" : false,
+      "name" : "Human",
+      "popularity" : 71,
+      "preview_url" : "https://p.scdn.co/mp3-preview/df81e983c090864817b48b81a8aef366a87f343c?cid=4f6544150d1049b082feba3bc13be19c",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:5AihIu9yF3flkw1jFMyfwW"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+          "id" : "6zLBxLdl60ekBLpawtT63I",
+          "name" : "Cody Johnson",
+          "type" : "artist",
+          "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3og8X1LYiVq3nPdMxpM9Wb",
+        "id" : "3og8X1LYiVq3nPdMxpM9Wb",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d249311c1e8dcf6d91d35558",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d249311c1e8dcf6d91d35558",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d249311c1e8dcf6d91d35558",
+          "width" : 64
+        } ],
+        "name" : "Human The Double Album",
+        "release_date" : "2021-10-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:3og8X1LYiVq3nPdMxpM9Wb"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+        "id" : "6zLBxLdl60ekBLpawtT63I",
+        "name" : "Cody Johnson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "disc_number" : 1,
+      "duration_ms" : 194760,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMCQK1900139"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4N3IheRvS1NzWBPQ3Fvb6r"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4N3IheRvS1NzWBPQ3Fvb6r",
+      "id" : "4N3IheRvS1NzWBPQ3Fvb6r",
+      "is_local" : false,
+      "name" : "Stronger",
+      "popularity" : 60,
+      "preview_url" : "https://p.scdn.co/mp3-preview/08d60d6645699253300bee625b0c33edf48903bb?cid=4f6544150d1049b082feba3bc13be19c",
+      "track_number" : 16,
+      "type" : "track",
+      "uri" : "spotify:track:4N3IheRvS1NzWBPQ3Fvb6r"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+          "id" : "6zLBxLdl60ekBLpawtT63I",
+          "name" : "Cody Johnson",
+          "type" : "artist",
+          "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3KzIZXKtYfxYkoHmLU1R3k"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3KzIZXKtYfxYkoHmLU1R3k",
+        "id" : "3KzIZXKtYfxYkoHmLU1R3k",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27324e784b1db997c872898f69e",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0224e784b1db997c872898f69e",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485124e784b1db997c872898f69e",
+          "width" : 64
+        } ],
+        "name" : "A Different Day",
+        "release_date" : "2011-10-31",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:3KzIZXKtYfxYkoHmLU1R3k"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+        "id" : "6zLBxLdl60ekBLpawtT63I",
+        "name" : "Cody Johnson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "disc_number" : 1,
+      "duration_ms" : 196906,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "TCABB1178585"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/24Nt4OalWDICkEKVy81X6k"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/24Nt4OalWDICkEKVy81X6k",
+      "id" : "24Nt4OalWDICkEKVy81X6k",
+      "is_local" : false,
+      "name" : "Diamond In My Pocket",
+      "popularity" : 71,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0cb5c32b89fc536c05c9035345605007e053fe5c?cid=4f6544150d1049b082feba3bc13be19c",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:24Nt4OalWDICkEKVy81X6k"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+          "id" : "6zLBxLdl60ekBLpawtT63I",
+          "name" : "Cody Johnson",
+          "type" : "artist",
+          "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
+        },
+        "href" : "https://api.spotify.com/v1/albums/62aYom0k3j1RBe4uPC64ob",
+        "id" : "62aYom0k3j1RBe4uPC64ob",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273606c346e7888593b3b161c58",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02606c346e7888593b3b161c58",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851606c346e7888593b3b161c58",
+          "width" : 64
+        } ],
+        "name" : "Ain't Nothin' to It",
+        "release_date" : "2019-01-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:62aYom0k3j1RBe4uPC64ob"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+        "id" : "6zLBxLdl60ekBLpawtT63I",
+        "name" : "Cody Johnson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "disc_number" : 1,
+      "duration_ms" : 260466,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMCQK1800048"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5ggoxc2dhlFjListerctlA"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5ggoxc2dhlFjListerctlA",
+      "id" : "5ggoxc2dhlFjListerctlA",
+      "is_local" : false,
+      "name" : "Nothin' on You",
+      "popularity" : 64,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0eacadb6a972c03a9c697a8d728da680f7ecc9fb?cid=4f6544150d1049b082feba3bc13be19c",
+      "track_number" : 6,
+      "type" : "track",
+      "uri" : "spotify:track:5ggoxc2dhlFjListerctlA"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+          "id" : "6zLBxLdl60ekBLpawtT63I",
+          "name" : "Cody Johnson",
+          "type" : "artist",
+          "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5TxhzESD1pW7osKlZRFNYD"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5TxhzESD1pW7osKlZRFNYD",
+        "id" : "5TxhzESD1pW7osKlZRFNYD",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273afd2bbd4032142461cef8fae",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02afd2bbd4032142461cef8fae",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851afd2bbd4032142461cef8fae",
+          "width" : 64
+        } ],
+        "name" : "Gotta Be Me",
+        "release_date" : "2016-08-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:5TxhzESD1pW7osKlZRFNYD"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+        "id" : "6zLBxLdl60ekBLpawtT63I",
+        "name" : "Cody Johnson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "disc_number" : 1,
+      "duration_ms" : 186066,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMCQK1300022"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4IZOdhEvXYWqh5XAXYzBk3"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4IZOdhEvXYWqh5XAXYzBk3",
+      "id" : "4IZOdhEvXYWqh5XAXYzBk3",
+      "is_local" : false,
+      "name" : "Wild as You",
+      "popularity" : 68,
+      "preview_url" : "https://p.scdn.co/mp3-preview/af59f5e6ab2e21e2a9d26403f060eb4575dcd1c7?cid=4f6544150d1049b082feba3bc13be19c",
+      "track_number" : 9,
+      "type" : "track",
+      "uri" : "spotify:track:4IZOdhEvXYWqh5XAXYzBk3"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+          "id" : "6zLBxLdl60ekBLpawtT63I",
+          "name" : "Cody Johnson",
+          "type" : "artist",
+          "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5TxhzESD1pW7osKlZRFNYD"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5TxhzESD1pW7osKlZRFNYD",
+        "id" : "5TxhzESD1pW7osKlZRFNYD",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273afd2bbd4032142461cef8fae",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02afd2bbd4032142461cef8fae",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851afd2bbd4032142461cef8fae",
+          "width" : 64
+        } ],
+        "name" : "Gotta Be Me",
+        "release_date" : "2016-08-05",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:5TxhzESD1pW7osKlZRFNYD"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+        "id" : "6zLBxLdl60ekBLpawtT63I",
+        "name" : "Cody Johnson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "disc_number" : 1,
+      "duration_ms" : 220893,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMCQK1300016"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/34SQ0QfLSR316d8KL2zkuZ"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/34SQ0QfLSR316d8KL2zkuZ",
+      "id" : "34SQ0QfLSR316d8KL2zkuZ",
+      "is_local" : false,
+      "name" : "With You I Am",
+      "popularity" : 68,
+      "preview_url" : "https://p.scdn.co/mp3-preview/a62274a88357535d3ac1ee900ed62fd605b71d57?cid=4f6544150d1049b082feba3bc13be19c",
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:34SQ0QfLSR316d8KL2zkuZ"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+          "id" : "6zLBxLdl60ekBLpawtT63I",
+          "name" : "Cody Johnson",
+          "type" : "artist",
+          "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
+        },
+        "href" : "https://api.spotify.com/v1/albums/62aYom0k3j1RBe4uPC64ob",
+        "id" : "62aYom0k3j1RBe4uPC64ob",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273606c346e7888593b3b161c58",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02606c346e7888593b3b161c58",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851606c346e7888593b3b161c58",
+          "width" : 64
+        } ],
+        "name" : "Ain't Nothin' to It",
+        "release_date" : "2019-01-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:62aYom0k3j1RBe4uPC64ob"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+        "id" : "6zLBxLdl60ekBLpawtT63I",
+        "name" : "Cody Johnson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "disc_number" : 1,
+      "duration_ms" : 254653,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMCQK1800055"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/5S8TnsIYMVrUg1bKxiGf6e"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/5S8TnsIYMVrUg1bKxiGf6e",
+      "id" : "5S8TnsIYMVrUg1bKxiGf6e",
+      "is_local" : false,
+      "name" : "Dear Rodeo",
+      "popularity" : 63,
+      "preview_url" : "https://p.scdn.co/mp3-preview/ac1bd4419c460631dcea0489f18d4b99909f6a1e?cid=4f6544150d1049b082feba3bc13be19c",
+      "track_number" : 13,
+      "type" : "track",
+      "uri" : "spotify:track:5S8TnsIYMVrUg1bKxiGf6e"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+          "id" : "6zLBxLdl60ekBLpawtT63I",
+          "name" : "Cody Johnson",
+          "type" : "artist",
+          "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0JKpAxkMB9RxA4EqqhLhLj",
+        "id" : "0JKpAxkMB9RxA4EqqhLhLj",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739252c9fcdef40fc5c6d30f14",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029252c9fcdef40fc5c6d30f14",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519252c9fcdef40fc5c6d30f14",
+          "width" : 64
+        } ],
+        "name" : "Cowboy Like Me",
+        "release_date" : "2014-01-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:0JKpAxkMB9RxA4EqqhLhLj"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+        "id" : "6zLBxLdl60ekBLpawtT63I",
+        "name" : "Cody Johnson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "disc_number" : 1,
+      "duration_ms" : 174680,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMCQK1300001"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2g3vpJiqwswGJbUOSkCWqC"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2g3vpJiqwswGJbUOSkCWqC",
+      "id" : "2g3vpJiqwswGJbUOSkCWqC",
+      "is_local" : false,
+      "name" : "Dance Her Home",
+      "popularity" : 68,
+      "preview_url" : "https://p.scdn.co/mp3-preview/7e9d88eb41737026baa55a40ba724b76cd5b5c18?cid=4f6544150d1049b082feba3bc13be19c",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:2g3vpJiqwswGJbUOSkCWqC"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+          "id" : "6zLBxLdl60ekBLpawtT63I",
+          "name" : "Cody Johnson",
+          "type" : "artist",
+          "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
+        },
+        "href" : "https://api.spotify.com/v1/albums/62aYom0k3j1RBe4uPC64ob",
+        "id" : "62aYom0k3j1RBe4uPC64ob",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273606c346e7888593b3b161c58",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02606c346e7888593b3b161c58",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851606c346e7888593b3b161c58",
+          "width" : 64
+        } ],
+        "name" : "Ain't Nothin' to It",
+        "release_date" : "2019-01-18",
+        "release_date_precision" : "day",
+        "total_tracks" : 15,
+        "type" : "album",
+        "uri" : "spotify:album:62aYom0k3j1RBe4uPC64ob"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+        "id" : "6zLBxLdl60ekBLpawtT63I",
+        "name" : "Cody Johnson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "disc_number" : 1,
+      "duration_ms" : 202360,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMCQK1800043"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4QWaq7U3fufJjy1rCBm6ds"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4QWaq7U3fufJjy1rCBm6ds",
+      "id" : "4QWaq7U3fufJjy1rCBm6ds",
+      "is_local" : false,
+      "name" : "Ain't Nothin' to It",
+      "popularity" : 62,
+      "preview_url" : "https://p.scdn.co/mp3-preview/f1102b95efdb9f538497d08aad42429f88ff5e63?cid=4f6544150d1049b082feba3bc13be19c",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:4QWaq7U3fufJjy1rCBm6ds"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
+          },
+          "href" : "https://api.spotify.com/v1/artists/2t2XKfWKLXpFIjFwy1K8wx",
+          "id" : "2t2XKfWKLXpFIjFwy1K8wx",
+          "name" : "Aaron Lewis",
+          "type" : "artist",
+          "uri" : "spotify:artist:2t2XKfWKLXpFIjFwy1K8wx"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0CJrzaavg6xQaIKolWD83H"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0CJrzaavg6xQaIKolWD83H",
+        "id" : "0CJrzaavg6xQaIKolWD83H",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b27346664a707386180ce06bdd78",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e0246664a707386180ce06bdd78",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d0000485146664a707386180ce06bdd78",
+          "width" : 64
+        } ],
+        "name" : "Sinner",
+        "release_date" : "2016-09-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:0CJrzaavg6xQaIKolWD83H"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2t2XKfWKLXpFIjFwy1K8wx",
+        "id" : "2t2XKfWKLXpFIjFwy1K8wx",
+        "name" : "Aaron Lewis",
+        "type" : "artist",
+        "uri" : "spotify:artist:2t2XKfWKLXpFIjFwy1K8wx"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "disc_number" : 1,
+      "duration_ms" : 286360,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "USUM71605503"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2X3KcTnrZExkNo9h44e21G"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2X3KcTnrZExkNo9h44e21G",
+      "id" : "2X3KcTnrZExkNo9h44e21G",
+      "is_local" : false,
+      "name" : "Travelin’ Soldier",
+      "popularity" : 53,
+      "preview_url" : null,
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:2X3KcTnrZExkNo9h44e21G"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+          "id" : "6zLBxLdl60ekBLpawtT63I",
+          "name" : "Cody Johnson",
+          "type" : "artist",
+          "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3og8X1LYiVq3nPdMxpM9Wb",
+        "id" : "3og8X1LYiVq3nPdMxpM9Wb",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d249311c1e8dcf6d91d35558",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d249311c1e8dcf6d91d35558",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d249311c1e8dcf6d91d35558",
+          "width" : 64
+        } ],
+        "name" : "Human The Double Album",
+        "release_date" : "2021-10-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:3og8X1LYiVq3nPdMxpM9Wb"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+        "id" : "6zLBxLdl60ekBLpawtT63I",
+        "name" : "Cody Johnson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "disc_number" : 1,
+      "duration_ms" : 167213,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMCQK1900122"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/1IZrxojh2k8s7CJPgJAVXS"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/1IZrxojh2k8s7CJPgJAVXS",
+      "id" : "1IZrxojh2k8s7CJPgJAVXS",
+      "is_local" : false,
+      "name" : "Driveway",
+      "popularity" : 53,
+      "preview_url" : "https://p.scdn.co/mp3-preview/aae2e5a7c57a5314ff2af7d59c5352322b4f7e5a?cid=4f6544150d1049b082feba3bc13be19c",
+      "track_number" : 7,
+      "type" : "track",
+      "uri" : "spotify:track:1IZrxojh2k8s7CJPgJAVXS"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+          "id" : "6zLBxLdl60ekBLpawtT63I",
+          "name" : "Cody Johnson",
+          "type" : "artist",
+          "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3og8X1LYiVq3nPdMxpM9Wb",
+        "id" : "3og8X1LYiVq3nPdMxpM9Wb",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d249311c1e8dcf6d91d35558",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d249311c1e8dcf6d91d35558",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d249311c1e8dcf6d91d35558",
+          "width" : 64
+        } ],
+        "name" : "Human The Double Album",
+        "release_date" : "2021-10-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:3og8X1LYiVq3nPdMxpM9Wb"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+        "id" : "6zLBxLdl60ekBLpawtT63I",
+        "name" : "Cody Johnson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "disc_number" : 1,
+      "duration_ms" : 238933,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMCQK1900132"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0IlYvLvA257FhOau31pOK8"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0IlYvLvA257FhOau31pOK8",
+      "id" : "0IlYvLvA257FhOau31pOK8",
+      "is_local" : false,
+      "name" : "By Your Grace",
+      "popularity" : 62,
+      "preview_url" : "https://p.scdn.co/mp3-preview/4bc2847afd2570b672da9359556c2ac330e30888?cid=4f6544150d1049b082feba3bc13be19c",
+      "track_number" : 18,
+      "type" : "track",
+      "uri" : "spotify:track:0IlYvLvA257FhOau31pOK8"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+          "id" : "6zLBxLdl60ekBLpawtT63I",
+          "name" : "Cody Johnson",
+          "type" : "artist",
+          "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3og8X1LYiVq3nPdMxpM9Wb",
+        "id" : "3og8X1LYiVq3nPdMxpM9Wb",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273d249311c1e8dcf6d91d35558",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02d249311c1e8dcf6d91d35558",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851d249311c1e8dcf6d91d35558",
+          "width" : 64
+        } ],
+        "name" : "Human The Double Album",
+        "release_date" : "2021-10-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 18,
+        "type" : "album",
+        "uri" : "spotify:album:3og8X1LYiVq3nPdMxpM9Wb"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+        "id" : "6zLBxLdl60ekBLpawtT63I",
+        "name" : "Cody Johnson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "disc_number" : 1,
+      "duration_ms" : 216626,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMCQK1900129"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/64d867Wd8tQar6Zt0EaXUq"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/64d867Wd8tQar6Zt0EaXUq",
+      "id" : "64d867Wd8tQar6Zt0EaXUq",
+      "is_local" : false,
+      "name" : "When It Comes to You",
+      "popularity" : 54,
+      "preview_url" : "https://p.scdn.co/mp3-preview/3c354e99b28666337bffda5729a2242d91bc8730?cid=4f6544150d1049b082feba3bc13be19c",
+      "track_number" : 14,
+      "type" : "track",
+      "uri" : "spotify:track:64d867Wd8tQar6Zt0EaXUq"
+    }, {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+          "id" : "6zLBxLdl60ekBLpawtT63I",
+          "name" : "Cody Johnson",
+          "type" : "artist",
+          "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BZ", "CA", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "ZA", "ZM" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/72pR0B18ynMrGZmLf0L2YF"
+        },
+        "href" : "https://api.spotify.com/v1/albums/72pR0B18ynMrGZmLf0L2YF",
+        "id" : "72pR0B18ynMrGZmLf0L2YF",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b273877a008199ef1a377725294f",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e02877a008199ef1a377725294f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d00004851877a008199ef1a377725294f",
+          "width" : 64
+        } ],
+        "name" : "Welcome to the Show",
+        "release_date" : "2019-01-31",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:72pR0B18ynMrGZmLf0L2YF"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+        "id" : "6zLBxLdl60ekBLpawtT63I",
+        "name" : "Cody Johnson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BZ", "CA", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "ZA", "ZM" ],
+      "disc_number" : 1,
+      "duration_ms" : 160520,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMCQK1800075"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0ZyATfTcQN9uXNbdJEDlAP"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0ZyATfTcQN9uXNbdJEDlAP",
+      "id" : "0ZyATfTcQN9uXNbdJEDlAP",
+      "is_local" : false,
+      "name" : "Welcome to the Show",
+      "popularity" : 66,
+      "preview_url" : "https://p.scdn.co/mp3-preview/65e402d8f9355f9ebadef77cc25fad8f34cd4a68?cid=4f6544150d1049b082feba3bc13be19c",
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:0ZyATfTcQN9uXNbdJEDlAP"
+    }, {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          },
+          "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+          "id" : "6zLBxLdl60ekBLpawtT63I",
+          "name" : "Cody Johnson",
+          "type" : "artist",
+          "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+        } ],
+        "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj"
+        },
+        "href" : "https://api.spotify.com/v1/albums/0JKpAxkMB9RxA4EqqhLhLj",
+        "id" : "0JKpAxkMB9RxA4EqqhLhLj",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/ab67616d0000b2739252c9fcdef40fc5c6d30f14",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ab67616d00001e029252c9fcdef40fc5c6d30f14",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/ab67616d000048519252c9fcdef40fc5c6d30f14",
+          "width" : 64
+        } ],
+        "name" : "Cowboy Like Me",
+        "release_date" : "2014-01-14",
+        "release_date_precision" : "day",
+        "total_tracks" : 13,
+        "type" : "album",
+        "uri" : "spotify:album:0JKpAxkMB9RxA4EqqhLhLj"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6zLBxLdl60ekBLpawtT63I",
+        "id" : "6zLBxLdl60ekBLpawtT63I",
+        "name" : "Cody Johnson",
+        "type" : "artist",
+        "uri" : "spotify:artist:6zLBxLdl60ekBLpawtT63I"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CD", "CG", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IQ", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "LY", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TJ", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VE", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "disc_number" : 1,
+      "duration_ms" : 252146,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QMCQK1300012"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0CWFczodn19J8r9dftuMMH"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0CWFczodn19J8r9dftuMMH",
+      "id" : "0CWFczodn19J8r9dftuMMH",
+      "is_local" : false,
+      "name" : "Never Go Home Again",
+      "popularity" : 65,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2e1f498894120b49919789a326c65111d20af6ad?cid=4f6544150d1049b082feba3bc13be19c",
+      "track_number" : 12,
+      "type" : "track",
+      "uri" : "spotify:track:0CWFczodn19J8r9dftuMMH"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=Cody+Johnson&type=track&offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 1025
+  }
+}

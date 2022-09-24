@@ -1,7 +1,7 @@
 use dotenv::dotenv;
 use std::{env,process};
 
-pub mod types;
+pub mod responses;
 pub mod search;
 pub mod auth;
 
